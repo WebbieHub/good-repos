@@ -2,6 +2,9 @@
 A collection of good open source repositories to get involved with. To submit more checkout the discussions tab.
 ## By Experience Level
 ### Beginner
+* [introductions](https://github.com/WebbieHub/introductions)
+    * The perfect way to learn open source
+    * Check the discussions tab to introduce yourself to the community!
 * [sButtons](https://github.com/sButtons/sbuttons)
     * A css library for custom button styles
     * Great place to start in open source
